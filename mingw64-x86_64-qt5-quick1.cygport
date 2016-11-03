@@ -11,6 +11,6 @@ embedded development. Qt enables programmers to create advanced GUI
 applications once and deploy them to Windows, Mac OS X and Linux without
 rewriting the source code. Companies using Qt can leverage software
 investments made on one platform across many others."
-HOMEPAGE="http://qt-project.org/"
-SRC_URI="http://download.qt-project.org/official_releases/qt/${VERSION%.*}/${VERSION}/submodules/qtquick1-opensource-src-${VERSION}.tar.xz"
+HOMEPAGE="https://www.qt.io/"
+SRC_URI="http://download.qt.io/official_releases/qt/${VERSION%.*}/${VERSION}/submodules/qtquick1-opensource-src-${VERSION}.tar.xz"
 SRC_DIR="qtquick1-opensource-src-${VERSION}"
